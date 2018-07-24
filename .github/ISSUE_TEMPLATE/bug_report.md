@@ -1,35 +1,23 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Crea tu reporte para mejorar
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descripción**
+Describa el bug encontrado.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Como se produce el bug**
+Indique los pasos a seguir para reproducir el problema
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Si fuera necesario para aclarar el fallo.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Software y hardware:**
+ Describa lo que estaba usando al momento del fallo
+ - Equipo que usa
+ - Sistema operativo
+ - Versión del navegador
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Información Adicional**
+Cualquier otra información que pueda ser de utilidad.
