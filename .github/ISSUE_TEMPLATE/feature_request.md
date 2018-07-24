@@ -1,17 +1,14 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Solicitud de caracteristica
+about: Cualquier idea que aporte al proyecto
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Nueva caracteristica que propone.**
+Describir claramente que nuevas funciones espera, si soluciona un problema
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Que alternativas propone**
+Indique que alternativas de solución considera adecuadas.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contexto Adicional**
+Agregue cualquier archivo o screenshot que pueda ser de utilidad.
